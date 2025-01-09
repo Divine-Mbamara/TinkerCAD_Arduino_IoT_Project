@@ -1,5 +1,8 @@
 # TinkerCAD_Arduino_IoT_Project
 ## Driveway Security System
+
+![Final Project](https://github.com/user-attachments/assets/4481a411-fe9f-4395-9b73-6602bbb6aee5)
+
 ### Description
 This project uses an Arduino to simulate a driveway security system. The system requires the user to input the correct password before granting access to the gate.
 If the password is correct:
