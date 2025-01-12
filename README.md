@@ -1,4 +1,3 @@
-# TinkerCAD_Arduino_IoT_Project
 ## Driveway Security System
 
 ![Final Project](https://github.com/user-attachments/assets/4481a411-fe9f-4395-9b73-6602bbb6aee5)
